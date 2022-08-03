@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Serhio13/Test-R/edit/main/my-app/public/static/css/main.0177f35c.css",
-    "main.js": "/Serhio13/Test-R/edit/main/my-app/public/static/js/main.96ac939b.js",
-    "static/js/787.786dfcb1.chunk.js": "/Serhio13/Test-R/edit/main/my-app/public/static/js/787.786dfcb1.chunk.js",
-    "index.html": "/Serhio13/Test-R/edit/main/my-app/public/index.html",
-    "main.0177f35c.css.map": "/Serhio13/Test-R/edit/main/my-app/public/static/css/main.0177f35c.css.map",
-    "main.96ac939b.js.map": "/Serhio13/Test-R/edit/main/my-app/public/static/js/main.96ac939b.js.map",
-    "787.786dfcb1.chunk.js.map": "/Serhio13/Test-R/edit/main/my-app/public/static/js/787.786dfcb1.chunk.js.map"
+    "main.css": "/Serhio13/Test-R/tree/main/cryptostok/public/static/css/main.0177f35c.css",
+    "main.js": "/Serhio13/Test-R/tree/main/cryptostok/public/static/js/main.666450e9.js",
+    "static/js/787.786dfcb1.chunk.js": "/Serhio13/Test-R/tree/main/cryptostok/public/static/js/787.786dfcb1.chunk.js",
+    "index.html": "/Serhio13/Test-R/tree/main/cryptostok/public/index.html",
+    "main.0177f35c.css.map": "/Serhio13/Test-R/tree/main/cryptostok/public/static/css/main.0177f35c.css.map",
+    "main.666450e9.js.map": "/Serhio13/Test-R/tree/main/cryptostok/public/static/js/main.666450e9.js.map",
+    "787.786dfcb1.chunk.js.map": "/Serhio13/Test-R/tree/main/cryptostok/public/static/js/787.786dfcb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0177f35c.css",
-    "static/js/main.96ac939b.js"
+    "static/js/main.666450e9.js"
   ]
 }
