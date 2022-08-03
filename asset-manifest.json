@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Test-R/static/css/main.0177f35c.css",
-    "main.js": "/Test-R/static/js/main.a564e9b4.js",
-    "static/js/787.786dfcb1.chunk.js": "/Test-R/static/js/787.786dfcb1.chunk.js",
-    "index.html": "/Test-R/index.html",
-    "main.0177f35c.css.map": "/Test-R/static/css/main.0177f35c.css.map",
-    "main.a564e9b4.js.map": "/Test-R/static/js/main.a564e9b4.js.map",
-    "787.786dfcb1.chunk.js.map": "/Test-R/static/js/787.786dfcb1.chunk.js.map"
+    "main.css": "/Serhio13/Test-R/tree/main/cryptostok/static/css/main.0177f35c.css",
+    "main.js": "/Serhio13/Test-R/tree/main/cryptostok/static/js/main.8b515961.js",
+    "static/js/787.786dfcb1.chunk.js": "/Serhio13/Test-R/tree/main/cryptostok/static/js/787.786dfcb1.chunk.js",
+    "index.html": "/Serhio13/Test-R/tree/main/cryptostok/index.html",
+    "main.0177f35c.css.map": "/Serhio13/Test-R/tree/main/cryptostok/static/css/main.0177f35c.css.map",
+    "main.8b515961.js.map": "/Serhio13/Test-R/tree/main/cryptostok/static/js/main.8b515961.js.map",
+    "787.786dfcb1.chunk.js.map": "/Serhio13/Test-R/tree/main/cryptostok/static/js/787.786dfcb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0177f35c.css",
-    "static/js/main.a564e9b4.js"
+    "static/js/main.8b515961.js"
   ]
 }
